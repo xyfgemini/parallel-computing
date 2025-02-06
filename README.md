@@ -1,5 +1,7 @@
 # parallel-computing
 
+
+
 ## References
 
 -   [NVIDIA Docs](https://docs.nvidia.com/cuda/index.html)
@@ -8,7 +10,9 @@
 
 - [UCB-CS267](https://sites.google.com/lbl.gov/cs267-spr2022?pli=1)
 
-	 
+- GPGPA 梁
+- gpgpu-sim vortex ventus nyuzi 
+- CUDA-MODE	 
 
-	
+​	
 
